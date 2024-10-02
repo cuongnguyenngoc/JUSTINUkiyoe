@@ -11,7 +11,7 @@ class BotTwitch:
         self.SERVER = "irc.twitch.tv"  # server
         self.PORT = 6667 # port
         ### Options (Edit this)
-        self.PASS = "oauth:kykwow2afwwea6yvu92d6qoebt44c3"  # bot password can be found on https://twitchapps.com/tmi/
+        self.PASS = ""  # bot password can be found on https://twitchapps.com/tmi/
         self.BOT = "botch932"  # Bot's name [NO CAPITALS]
         self.CHANNEL = "ch932"  # Channal name [NO CAPITALS]
         self.OWNER = "ch932"  # Owner's name [NO CAPITALS]
